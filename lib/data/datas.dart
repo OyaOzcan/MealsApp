@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:meals_app/models/category.dart';
-import 'package:meals_app/models/meal.dart';
+import 'package:mealsapp/models/category.dart';
+import 'package:mealsapp/models/meal.dart';
 
 const categories = [
   Category(id: "1", name: "Başlangıçlar", color: Colors.purple),
